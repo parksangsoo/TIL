@@ -1,5 +1,6 @@
 # 웹
 + [브라우저 렌더링 원리](https://velog.io/@parksangsoo/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9B%90%EB%A6%AC)
++ [SPA(Single Page Application)](https://velog.io/@parksangsoo/SPASingle-Page-Application)
 # 네트워크
 + [HTTP](https://velog.io/@parksangsoo/HTTP)
 
