@@ -10,6 +10,7 @@ a
 
 # javascript
 + [데이터타입과 변수](https://velog.io/@parksangsoo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)
++ [타입 변환](https://velog.io/@parksangsoo/%EC%97%B0%EC%82%B0%EC%9E%90)
 # React
 
 # 알고리즘
