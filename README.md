@@ -13,6 +13,7 @@ a
 + [타입 변환](https://velog.io/@parksangsoo/%EC%97%B0%EC%82%B0%EC%9E%90)
 + [객체](https://velog.io/@parksangsoo/%EA%B0%9D%EC%B2%B4Object)
 + [함수](https://velog.io/@parksangsoo/%ED%95%A8%EC%88%98)
++ [타입체크](https://velog.io/@parksangsoo/%ED%83%80%EC%9E%85-%EC%B2%B4%ED%81%AC)
 # React
 
 # 알고리즘
