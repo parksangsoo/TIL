@@ -16,6 +16,8 @@ a
 + [타입체크](https://velog.io/@parksangsoo/%ED%83%80%EC%9E%85-%EC%B2%B4%ED%81%AC)
 + [프로토타입](https://velog.io/@parksangsoo/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85Prototype)
 + [스코프](https://velog.io/@parksangsoo/%EC%8A%A4%EC%BD%94%ED%94%84)
++ [보다 안정적인 자바스크립트 개발 환경을 위한 Strict mode]()
++ 
 # React
 
 # 알고리즘
